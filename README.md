@@ -6,6 +6,22 @@ This end-to-end Business Intelligence and HR Analytics project examines employee
 
 The project integrates Microsoft Excel, SQL, SQLite, Power Query, DAX, and Power BI to transform workforce data into actionable business insights that support evidence-based HR decision-making and employee retention strategies.
 
+## Dataset Source and Licensing
+
+This project utilizes the IBM HR Analytics Employee Attrition & Performance dataset, a fictional dataset created by IBM data scientists for analytical and educational purposes.
+
+- **Original creator:** IBM data scientists
+- **Source platform:** Kaggle
+- **Dataset:** [IBM HR Analytics Employee Attrition & Performance](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
+- **Original records:** 1,470 employees
+- **Original variables:** 35
+- **Database license:** [Open Database License (ODbL) v1.0](https://opendatacommons.org/licenses/odbl/1-0/)
+- **Contents license:** [Database Contents License (DbCL) v1.0](https://opendatacommons.org/licenses/dbcl/1-0/)
+
+The dataset was cleaned, transformed, and enriched with analytical variables as part of this independent portfolio project. The original and derived databases are made available subject to the applicable dataset licenses.
+
+The findings relate to fictional employee records and do not represent actual IBM workforce statistics.
+
 ## Business Objectives
 
 - Identify employee segments with elevated attrition rates.
